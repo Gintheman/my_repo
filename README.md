@@ -8,3 +8,6 @@ Another text added from browser.
 
 
 Added text via file.
+
+
+Resolve the conflict.
